@@ -1,0 +1,13 @@
+.a {
+    object-fit: fill;
+    border: solid 5px black;
+}
+
+.c {
+    max-height: 590px;
+}
+
+.carousel-item {
+    max-height: 590px;
+}
+
